@@ -104,8 +104,6 @@ a{
   background-color: hsl(30, 38%, 92%);
 }
 
-
-
 button:hover{
   background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
 }
@@ -128,23 +126,26 @@ button:hover{
    font-size: 2em;
    line-height: 31px;
   }
+
   p{
    font-size: 0.9em;
   }
+
   .description{
     gap: 15px;
   }
+
   .container{
     display: block;
     width: 340px;
     height: 838px;
 
   }
+
   .prices{
     margin: 0;
   }
   
-
   .desktop-img{
     display: none;
   }
